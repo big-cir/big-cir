@@ -1,4 +1,5 @@
 ### Hi there :dog:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FBig-Cir97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%2300BEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Big-Cir97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-Cir97&show_icons=true&theme=gruvbox)
 
