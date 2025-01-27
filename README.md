@@ -17,5 +17,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=big-cir&theme=xcode&hide_border=true&width=800" alt="Activity graph" style="width: 800px; max-width: 100%;">
   </a>
 </div>
+</div> <br>
 
-<div/>
+## 👨🏻‍💻 오픈소스
+**[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/pull/43517)**
+- Spring Boot Native Image에서 “java.home” 속성 사용의 잠재적 문제 대응
+
+**[micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer/pull/5825)**
+- HTTP 클라이언트에서 404 상태 코드에 대한 처리를 제거하는 이슈 중, Jetty Client 처리
+  
+
+
