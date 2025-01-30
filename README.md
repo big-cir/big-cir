@@ -23,6 +23,6 @@
 **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/pull/43517)**
 - Spring Boot Native Image에서 “java.home” 속성 사용의 잠재적 문제 대응
 
-**[micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer/pull/5825)**
-- HTTP 클라이언트에서 404 상태 코드에 대한 처리를 제거하는 이슈 중, Jetty Client 처리
+**micrometer-metrics/micrometer**
+- HTTP 클라이언트에서 404 상태 코드에 대한 처리를 제거하는 이슈 중, [Jetty Client](https://github.com/micrometer-metrics/micrometer/pull/5825)
 - [JDK HTTP Client discussion](https://github.com/micrometer-metrics/micrometer/pull/5838#discussion_r1935042621)
