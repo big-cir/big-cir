@@ -26,3 +26,6 @@
 **micrometer-metrics/micrometer**
 - HTTP 클라이언트에서 404 상태 코드에 대한 처리를 제거하는 이슈 중, [Jetty Client](https://github.com/micrometer-metrics/micrometer/pull/5825)
 - [JDK HTTP Client discussion](https://github.com/micrometer-metrics/micrometer/pull/5838#discussion_r1935042621)
+
+** spring-projects/spring-security
+- [사용자 인증 실패 로깅 시 문자열 연결 오버헤드 감소](https://github.com/spring-projects/spring-security/pull/16513#issuecomment-2631886790)
