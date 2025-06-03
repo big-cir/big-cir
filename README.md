@@ -27,7 +27,7 @@
 ### <img src="https://github.com/user-attachments/assets/8145b85a-113f-47c5-8775-8371b595e6b0" width="20" height="20"> spring-projects/spring-security
 - [#](https://github.com/spring-projects/spring-security/pull/16996): AuthorizationProxyFactory의 proxy 메서드에 제네릭을 적용하여, 프록시 반환 시 타입 안정성을 보장하고 불필요한 캐스팅 제거
 - [#](https://github.com/spring-projects/spring-security/pull/16561): JdbcUserDetailsManager에 커스텀 RowMapper를 설정할 수 있는 기능을 추가하여 다양한 DB 스키마와의 호환성 개선
-- [#](https://github.com/spring-projects/spring-security/pull/16513): 사용자 인증 실패 로깅 시 문자열 연결 오버헤드 감소
+- [#](https://github.com/spring-projects/spring-security/pull/16513), [#](https://github.com/spring-projects/spring-security/pull/16512): 사용자 인증 실패 로깅 시 문자열 연결 오버헤드 감소 및 UsernameNotFoundException을 cause로 포함
 
 ### <img src="https://github.com/user-attachments/assets/6b139ed6-3b96-4c59-8440-0e408a2b46a2" width="20" height="20"> micrometer-metrics/micrometer
 - [#](https://github.com/micrometer-metrics/micrometer/pull/5825): HTTP 클라이언트에서 404 상태 코드에 대한 처리를 제거하는 이슈 중, Jetty Client 수정 및 JDK HTTP Client discussion 
