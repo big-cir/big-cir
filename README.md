@@ -1,10 +1,10 @@
 ### Hi there :dog:
 
 <div align=center>
-<div align="center"> 
+<!-- <div align="center"> 
   <p>View count</p>
   <img src="https://profile-counter.glitch.me/big-cir/count.svg" alt="Visitor's Count" />
-</div>
+</div> -->
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
