@@ -19,7 +19,39 @@
 </div>
 </div> <br>
 
-## 👨🏻‍💻 오픈소스
+## ✨ Services
+<table>
+<tr>
+<td width="60" valign="middle">
+  <img src="https://github.com/user-attachments/assets/72219f07-aa23-4e27-b8b2-3a31e85fdf74" width="64" height="72">
+</td>
+<td valign="middle">
+  <strong>덕지 (Duckz)</strong> : 함께 쓰는 교환일기<br>
+  <a href="https://apps.apple.com/kr/app/%EB%8D%95%EC%A7%80/id1572692131">
+    <img src="https://img.shields.io/badge/App_Store-007AFF?style=flat&logo=apple&logoColor=white&logoWidth=12" style="vertical-align: middle;">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.upf.memorytrace_android&hl=ko">
+    <img src="https://img.shields.io/badge/Google_Play-00C853?style=flat&logo=googleplay&logoColor=white&logoWidth=12" style="vertical-align: middle;">
+  </a>
+</td>
+</tr>
+
+<tr>
+<td width="60" valign="middle">
+  <img src="https://github.com/user-attachments/assets/87b2337e-4945-4454-b60a-c6378d5be958" width="64" height="72">
+</td>
+<td valign="middle">
+  <strong>클로그 (CLOG)</strong> : 클라이밍 영상 아카이빙<br>
+  <a href="https://apps.apple.com/kr/app/%ED%81%B4%EB%A1%9C%EA%B7%B8/id6741767026">
+    <img src="https://img.shields.io/badge/App_Store-007AFF?style=flat&logo=apple&logoColor=white&logoWidth=12" style="vertical-align: middle;">
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 👨🏻‍💻 Open Source Contributions
 
 ### <img src="https://github.com/user-attachments/assets/8145b85a-113f-47c5-8775-8371b595e6b0" width="20" height="20"> spring-projects/spring-boot
 - [#](https://github.com/spring-projects/spring-boot/pull/43517): Spring Boot Native Image에서 “java.home” 속성 사용의 잠재적 문제 대응
