@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="60" valign="middle">
-  <img src="https://github.com/user-attachments/assets/72219f07-aa23-4e27-b8b2-3a31e85fdf74" width="64" height="72">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/4f/db/a04fdb70-4e58-bfec-a674-b15c21d19f96/Placeholder.mill/200x200bb-75.webp" width="64" height="72">
 </td>
 <td valign="middle">
   <strong>덕지 (Duckz)</strong> : 함께 쓰는 교환일기<br>
@@ -38,7 +38,7 @@
 
 <tr>
 <td width="60" valign="middle">
-  <img src="https://github.com/user-attachments/assets/87b2337e-4945-4454-b60a-c6378d5be958" width="64" height="72">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/12/2c/d3122c15-9b2c-07ea-1b61-fce92d1663cf/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200ia-75.webp" width="64" height="72">
 </td>
 <td valign="middle">
   <strong>클로그 (CLOG)</strong> : 클라이밍 영상 아카이빙<br>
