@@ -22,8 +22,8 @@
 ## ✨ Services
 <table>
 <tr>
-<td width="60" valign="middle">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/4f/db/a04fdb70-4e58-bfec-a674-b15c21d19f96/Placeholder.mill/200x200bb-75.webp" width="64" height="72">
+<td width="80" valign="middle">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/4f/db/a04fdb70-4e58-bfec-a674-b15c21d19f96/Placeholder.mill/200x200bb-75.webp" width="72" height="72">
 </td>
 <td valign="middle">
   <strong>덕지 (Duckz)</strong> : 함께 쓰는 교환일기<br>
@@ -37,8 +37,8 @@
 </tr>
 
 <tr>
-<td width="60" valign="middle">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/12/2c/d3122c15-9b2c-07ea-1b61-fce92d1663cf/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200ia-75.webp" width="64" height="72">
+<td width="80" valign="middle">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/12/2c/d3122c15-9b2c-07ea-1b61-fce92d1663cf/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200ia-75.webp" width="72" height="72">
 </td>
 <td valign="middle">
   <strong>클로그 (CLOG)</strong> : 클라이밍 영상 아카이빙<br>
