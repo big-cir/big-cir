@@ -66,3 +66,4 @@
 
 ### <img src="https://github.com/user-attachments/assets/fb6a50e3-eca6-4f19-ac5e-a36c105906cd" width="20" height="20"> redis/lettuce
 - [#](https://github.com/redis/lettuce/pull/3138): Lettuce 커넥션 풀에서 커넥션 유효성 검증 방식을 함수(Predicate)로 지정할 수 있도록 개선
+- [#](https://github.com/redis/lettuce/issues/3775): LRU/LFU 환경에서 읽기가 키의 eviction 우선순위에 영향을 주지 않도록, Redis 7.2의 CLIENT NO-TOUCH 명령을 지원하도록 추가
