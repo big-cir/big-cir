@@ -53,6 +53,9 @@
 
 ## 👨🏻‍💻 Open Source Contributions
 
+### <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" width="20" height="20"> JUnit/junit-framework
+- [#](https://github.com/junit-team/junit-framework/pull/5812): 파라미터화 테스트 displayName의 argument maxLength 설정값 검증을 추가해, 잘못된 값(음수/0)을 fail-fast로 처리하여 런타임 예외 방지
+
 ### <img src="https://github.com/user-attachments/assets/8145b85a-113f-47c5-8775-8371b595e6b0" width="20" height="20"> spring-projects/spring-boot
 - [#](https://github.com/spring-projects/spring-boot/pull/43517): Spring Boot Native Image에서 “java.home” 속성 사용의 잠재적 문제 대응
 
